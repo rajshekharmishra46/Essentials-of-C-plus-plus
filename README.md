@@ -1,2 +1,2 @@
 # Essentials-of-C-plus-plus
-Contains certificate foe "Essentials of C"
+Contains certificate for "Essentials of C"
